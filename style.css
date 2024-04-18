@@ -12,7 +12,7 @@ body{
     height: 100vh;
 }
 .about-left{
-    background: #f26a8d;
+    background: #0000FF;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -20,7 +20,7 @@ body{
     height: 100vh;
 }
 .about-left-content > div{
-    background: #f49cbb;
+    background: #0000FF;
     padding: 4rem 4rem 2.5rem 5rem;
     text-align: center;
 }
@@ -83,14 +83,14 @@ body{
     margin-top: 1.2rem;
 }
 .icons{
-    background: #fff;
+    background: #0000FF;
     display: flex;
     justify-content: center;
     padding: 0.8rem 0;
 }
 .icons li{
     list-style-type: none;
-    background: #f36a8d;
+    background: #0000FF;
     color: #fff;
     width: 40px;
     height: 40px;
@@ -104,11 +104,11 @@ body{
     transition: all 0.5s ease-in-out;
 }
 .icons li:hover{
-    background: #edffec;
+    background: #0000FF;
     color: #000;
 }
 .about-right{
-    background: #fff;
+    background:#0000FF;
     height: 100vh;
     display: flex;
     flex-direction: column;
